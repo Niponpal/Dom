@@ -1,0 +1,36 @@
+.main-area {
+    width: 900px;
+    height: 600px;
+    border: 2px solid black;
+    margin: 40px;
+    display: flex;
+   
+  
+}
+
+.main-area .text{
+    text-align: center;
+    margin: auto;
+}
+
+.main-area .butt{
+  
+    text-align: center;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    background-color:black;
+    border: 2px solid orange;
+    color: white;
+    cursor: pointer;
+    
+}
+
+.main-area .butt button{
+    margin-top: 50px;
+}
